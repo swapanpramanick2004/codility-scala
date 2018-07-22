@@ -1,3 +1,5 @@
+package codility.lesson3
+
 import scala.annotation.tailrec
 import scala.util.Random
 

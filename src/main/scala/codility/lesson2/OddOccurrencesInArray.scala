@@ -1,3 +1,5 @@
+package codility.lesson2
+
 import scala.annotation.tailrec
 
 object OddOccurrencesInArray extends App {
